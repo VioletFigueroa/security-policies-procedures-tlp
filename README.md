@@ -1,5 +1,14 @@
 # TLP Artifacts & Security Policies
 
+![GitHub last commit](https://img.shields.io/github/last-commit/VioletFigueroa/security-policies-procedures-tlp?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/VioletFigueroa/security-policies-procedures-tlp?style=flat-square)
+![License](https://img.shields.io/badge/license-Educational-blue?style=flat-square)
+![Release](https://img.shields.io/github/v/release/VioletFigueroa/security-policies-procedures-tlp?style=flat-square)
+
+**Quick Links:** [Documentation](README.md) | [Security Policy](SECURITY.md) | [Contributing](CONTRIBUTING.md) | [Release](https://github.com/VioletFigueroa/security-policies-procedures-tlp/releases/tag/v1.0.0)
+
+---
+
 ## Overview
 Comprehensive security policy set based on Traffic Light Protocol (TLP) classifications and confidentiality levels. This project provides template policies and procedures for managing sensitive information, implementing security controls, and ensuring compliance across organizational levels.
 
