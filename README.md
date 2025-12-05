@@ -34,9 +34,36 @@ Comprehensive security policy set based on Traffic Light Protocol (TLP) classifi
 - Training and communication platforms
 
 ## Files Included
-- [Project 7 - Policy Set.pdf](Project%207%20-%20Policy%20Set.pdf) - Complete policy documentation
-- [Project 7 - Policy Set.pptx](Project%207%20-%20Policy%20Set.pptx) - Presentation format
-- [tlp-artifacts.md](tlp-artifacts.md) - Project documentation
-- [TLP Green/](TLP%20Green/) - Green classification policies and procedures
-- [TLP Yellow/](TLP%20Yellow/) - Yellow classification policies and procedures
-- [TLP Red/](TLP%20Red/) - Red classification policies and procedures
+
+**Main Policy Documentation:**
+- [Project 7 - Policy Set.pdf](Project%207%20-%20Policy%20Set.pdf) - Complete policy documentation set (PDF format)
+- [Project 7 - Policy Set.pptx](Project%207%20-%20Policy%20Set.pptx) - Presentation format for stakeholder communication
+- [tlp-artifacts.md](tlp-artifacts.md) - Project documentation and framework overview
+
+**TLP Green Classification - Baseline Policies:**
+- [TLP Green/Backup Policy.md](TLP%20Green/Backup%20Policy.md) - Backup policy (Markdown)
+- [TLP Green/Backup Policy.docx](TLP%20Green/Backup%20Policy.docx) - Backup policy (Word format)
+- [TLP Green/Data Access Policy.md](TLP%20Green/Data%20Access%20Policy.md) - Data access policy (Markdown)
+- [TLP Green/Data Access Policy.docx](TLP%20Green/Data%20Access%20Policy.docx) - Data access policy (Word format)
+- [TLP Green/Data Retention and Destruction Policy.md](TLP%20Green/Data%20Retention%20and%20Destruction%20Policy.md) - Data retention policy (Markdown)
+- [TLP Green/Data Retention and Destruction Policy.docx](TLP%20Green/Data%20Retention%20and%20Destruction%20Policy.docx) - Data retention policy (Word format)
+- [TLP Green/Log Retention Policy.md](TLP%20Green/Log%20Retention%20Policy.md) - Log retention policy (Markdown)
+- [TLP Green/Log Retention Policy.docx](TLP%20Green/Log%20Retention%20Policy.docx) - Log retention policy (Word format)
+- [TLP Green/Network Segmentation Policy.md](TLP%20Green/Network%20Segmentation%20Policy.md) - Network segmentation policy (Markdown)
+- [TLP Green/Network Segmentation Policy.docx](TLP%20Green/Network%20Segmentation%20Policy.docx) - Network segmentation policy (Word format)
+
+**TLP Yellow Classification - Implementation Procedures:**
+- [TLP Yellow/Procedure for Backup Policy.md](TLP%20Yellow/Procedure%20for%20Backup%20Policy.md) - Backup implementation procedure (Markdown)
+- [TLP Yellow/Procedure for Backup Policy.docx](TLP%20Yellow/Procedure%20for%20Backup%20Policy.docx) - Backup procedure (Word format)
+- [TLP Yellow/Procedure for Data Access Policy.md](TLP%20Yellow/Procedure%20for%20Data%20Access%20Policy.md) - Data access procedure (Markdown)
+- [TLP Yellow/Procedure for Data Access Policy.docx](TLP%20Yellow/Procedure%20for%20Data%20Access%20Policy.docx) - Data access procedure (Word format)
+- [TLP Yellow/Procedure for Data Retention and Destruction Policy.md](TLP%20Yellow/Procedure%20for%20Data%20Retention%20and%20Destruction%20Policy.md) - Data retention procedure (Markdown)
+- [TLP Yellow/Procedure for Data Retention and Destruction Policy.docx](TLP%20Yellow/Procedure%20for%20Data%20Retention%20and%20Destruction%20Policy.docx) - Data retention procedure (Word format)
+- [TLP Yellow/Procedure for Log Retention Policy.md](TLP%20Yellow/Procedure%20for%20Log%20Retention%20Policy.md) - Log retention procedure (Markdown)
+- [TLP Yellow/Procedure for Log Retention Policy.docx](TLP%20Yellow/Procedure%20for%20Log%20Retention%20Policy.docx) - Log retention procedure (Word format)
+- [TLP Yellow/Procedure for Network Segmentation Policy.md](TLP%20Yellow/Procedure%20for%20Network%20Segmentation%20Policy.md) - Network segmentation procedure (Markdown)
+- [TLP Yellow/Procedure for Network Segmentation Policy.docx](TLP%20Yellow/Procedure%20for%20Network%20Segmentation%20Policy.docx) - Network segmentation procedure (Word format)
+
+**TLP Red Classification - Incident Response:**
+- [TLP Red/Ransomware Attack Incident Response Playbook.md](TLP%20Red/Ransomware%20Attack%20Incident%20Response%20Playbook.md) - Ransomware response playbook (Markdown)
+- [TLP Red/Ransomware Attack Incident Response Playbook.docx](TLP%20Red/Ransomware%20Attack%20Incident%20Response%20Playbook.docx) - Ransomware response playbook (Word format)
