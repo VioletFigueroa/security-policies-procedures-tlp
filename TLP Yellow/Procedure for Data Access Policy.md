@@ -1,7 +1,3 @@
----
-draft: true
-tags: ["TLP", "policies", "procedures"]
----
 
 #
 
