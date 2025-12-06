@@ -8,6 +8,15 @@
 
 ---
 
+**How to view artifacts:** Core set in `Project 7 - Policy Set.pdf`; TLP-specific policies and procedures live under `TLP Green/`, `TLP Yellow/`, `TLP Red/`.
+
+**Result snapshot:** Delivered full TLP-classified policy and procedure stack with training-ready docs.
+
+**Quick review:**
+- Docs: `Project 7 - Policy Set.pdf`
+- Policies/Procedures: see TLP folders
+- Start with: Policy set PDF, then your relevant TLP folder
+
 ## Overview
 Comprehensive security policy set based on Traffic Light Protocol (TLP) classifications and confidentiality levels. This project provides template policies and procedures for managing sensitive information, implementing security controls, and ensuring compliance across organizational levels.
 
@@ -40,6 +49,10 @@ Comprehensive security policy set based on Traffic Light Protocol (TLP) classifi
 - Policy management tools
 - Compliance documentation systems
 - Training and communication platforms
+
+## Lessons Learned
+- Clear TLP labeling reduces mishandling of sensitive content.
+- Pairing policies with procedures drives adoption beyond awareness.
 
 ## Files Included
 
