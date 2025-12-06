@@ -18,7 +18,7 @@
 - Start with: Policy set PDF, then your relevant TLP folder
 
 ## Overview
-Comprehensive security policy set based on Traffic Light Protocol (TLP) classifications and confidentiality levels. This project provides template policies and procedures for managing sensitive information, implementing security controls, and ensuring compliance across organizational levels.
+Complete security policy framework organized by Traffic Light Protocol (TLP) classifications with implementation procedures and incident response playbooks. This project provides template policies and procedures for managing sensitive information, implementing security controls, and ensuring compliance across organizational levels.
 
 ## Objectives
 - Develop comprehensive security policy framework
